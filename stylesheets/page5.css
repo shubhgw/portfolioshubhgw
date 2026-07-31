@@ -1,0 +1,42 @@
+.page5 {
+    background-color: var(--page-5-background-color);
+    flex-direction: column;
+}
+
+.thanks-heading {
+    font-weight: bold;
+    font-size: 3.5vw;
+    margin-bottom: 20px;
+}
+
+.extra-links-div{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.extra-links{
+    transition: scale 0.2s;
+    color: black;
+    text-decoration: none;
+    background-color: var(--secondary-color);
+    padding: 10px 40px;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 0px black;
+    font-size: 1.9vw;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.extra-links:hover{
+    scale: 1.05;
+    background-color: var(--tertiary-color);
+
+}
+
+.page-5-icons{
+    width: 40px;
+}

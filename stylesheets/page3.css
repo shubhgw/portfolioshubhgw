@@ -1,0 +1,91 @@
+.page3 {
+    background-color: var(--page-3-background-color);
+    flex-direction: row;
+}
+
+.timeline-heading,
+.social-heading {
+    font-weight: bold;
+    font-size: 3.3vw;
+    margin-bottom: 20px;
+}
+
+.timeline,
+.social {
+    background-color: var(--tertiary-color);
+    width: 40vw;
+    height: 80vh;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 0px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+}
+
+.timeline {
+    row-gap: 15px;
+    align-items: normal;
+}
+
+.timeline .timeline-heading {
+    align-self: center;
+}
+
+.timeline .edu p, span {
+    font-size: 25px;
+}
+
+.timeline span {
+    font-weight: bold;
+}
+
+.edu1,
+.edu2,
+.edu3 {
+    background-color: var(--secondary-color);
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px black;
+    transition: all 0.2s;
+    margin-bottom: 10px;
+}
+
+.social-button {
+    display: flex;
+    font-display: row;
+    justify-content: left;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px black;
+    margin-bottom: 20px;
+    column-gap: 25px;
+    width: 55%;
+    transition: all 0.2s;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+
+}
+
+.social-button img {
+    width: 50px;
+
+}
+
+.social-button:hover {
+    scale: 1.06;
+    background-color: var(--fifth-color);
+}
+
+.edu:hover {
+    scale: 1.04;
+    /* background-color: var(--info-secondary-background-color); */
+}

@@ -1,0 +1,57 @@
+.page4 {
+    background-color: var(--page-4-background-color);
+    flex-direction: column;
+}
+
+.hackthon-heading {
+    font-weight: bold;
+    font-size: 3.3vw;
+    margin-bottom: 20px;
+}
+
+.team-info-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.team-info {
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--tertiary-color);
+    box-shadow: 5px 5px 0px black;
+}
+
+.members-div button{
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+    box-shadow: 3px 3px 0px black;
+    background-color: var(--info-background-color);
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: all 0.2s;
+}
+
+.member-info-div{
+    width: 60vw;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+
+    .member-photo img{
+        width: 200px;
+        border-radius: 10px;
+        border: 2px solid black;
+        box-shadow: 3px 3px 0px black;
+    }
+}
+
+.members-div button:hover{
+    background-color: var(--fifth-color);
+    scale: 1.07;
+}

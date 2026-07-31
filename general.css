@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: playwrite de grund;
+    /* fonts taken : open sans , playfair display , roboto mono , jersey 10 charted , geomini, arimo,Quintessential, roboto slab,playwrite de grund   */
+    font-size: 30px;
+}
+
+:root {
+    --background-color: #00bfff;
+    --secondary-color: #74ff8d;
+    --tertiary-color: #6ddaff;
+    --quaternary-color: #20c7ff;
+    --fifth-color: #ffbe32;
+
+    --page-1-background-color: #6ddaff;
+    --page-2-background-color: #74ff8d;
+    --page-3-background-color: #ffc45d;
+    --page-4-background-color: #be88ff;
+    --page-5-background-color: #ff8b8b;
+    --page-padding: 0px;
+
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+.page {
+    /* width: 100vw; */
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: var(--page-padding);
+    word-wrap: wrap;
+
+}
+
+.heading{
+    
+}
+
+
+img {
+    width: 30px;
+    border-radius: 5px;
+}
