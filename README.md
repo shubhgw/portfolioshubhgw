@@ -1,19 +1,22 @@
 
-+++ 🌐 Live site of Portfolio : https://shubhgw.github.io/PortFolio-shubhgw/ +++
 
-Try to open in laptop if possible 😌
+>### Try to open in laptop if possible 😌
 
-# 🙏 Welcome to the README file of mine portfolio 🙏!
+#### 🌐 The site is not mobile compatible currently but in some days I will make it compatible !
 
-🧑‍💻 I kept it simple in Neo-Brutalism Theme to Improve the Readability & Ease to access, I could have Add too many effects & Animations but ......iykyk😁
-🧑‍💻 The site is not mobile compatible currently but in some days I will Improve it !
+# 🙏 Welcome to the README file of **shubhgw**'s <a href="https://shubhgw.github.io/portfolioshubhgw">PORTFOLIO</a> 👈
 
-✅ Page 1 : About me !
-✅ Page 2 : My work ( Projects & Experience )
-✅ Page 3 : Journey & social !
-✅ Page 4 : My team - Notorious Coders !
-✅ Page 5 : Some extra links !
+### <a href="https://shubhgw.github.io/portfolioshubhgw"> 🌐 Portfolio site : https://shubhgw.github.io/portfolioshubhgw </a> 
 
-📍I'm currently at WCE-CSE [ Walchand College of Engineering , Sangali ] pursueing B.Tech Degree in Computer Scinece .
+#### 🎨 I kept it simple in Neo-Brutalism Theme to Improve the Readability & Ease of access, I could have Add too many effects & Animations but I didn't because ......iykyk😁
 
-🙌 Thanks for the Visit , Please give your feedback in Show interest section of page 4 !
+
+## ✅ Page 1 : About me 
+## ✅ Page 2 : My work ( Projects | Experience | Contribution )
+## ✅ Page 3 : Journey & social 
+## ✅ Page 4 : My team - Notorious Coders 
+## ✅ Page 5 : Some extra links 
+
+## 📍I'm currently at WCE-IT dep. [ Walchand College of Engineering , Sangali ] pursueing B.Tech Degree in Information Technology .
+
+### 🙌 Thanks for the Visit , Please give your feedback in Show interest section !
